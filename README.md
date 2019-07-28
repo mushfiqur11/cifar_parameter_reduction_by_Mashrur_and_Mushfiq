@@ -1,5 +1,5 @@
 # CIFAR Parameter Reduction
-### -Mashfrur Mahmud Morshed
+### -Mashrur Mahmud Morshed
 ### -Md. Mushfiqur Rahman
 
 
