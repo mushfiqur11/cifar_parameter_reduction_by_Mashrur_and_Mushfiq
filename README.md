@@ -11,4 +11,5 @@ This repository aims at building a neural network structure for CIFAR that reduc
 <h3>Models</h3>
 <ul>
   <li>NASnet-A</li>
+  <li>Googlenet</li>
 </ul>
